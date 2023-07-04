@@ -115,7 +115,7 @@ clima ensolado.
 
 Painel online, hospedado em um Cloud e disponível para acesso em
 qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: https://project-currycompany.streamlit.app/
+O painel pode ser acessado através desse link: (https://matheus02p5-ftc-cury-company-home-n7gopr.streamlit.app)
 
 ## 6. Conclusão
 
@@ -127,7 +127,5 @@ cresceu entre a semana 06 e a semana 13 do ano de 2022.
 ## 7. Próximo passos
  
 1. Reduzir o número de métricas.
-Conteúdo licenciado para Matheus Pinheiro Lemes de Souza - 446.768.228-71
-Ajustando o projeto 6
 2. Criar novos filtros.
 3. Adicionar novas visões de negócio.
